@@ -1,3 +1,3 @@
 # Images Gallery
 
-# Domain Link: https://karthik-ct.github.io/image-gallery/
+## Domain Link: https://karthik-ct.github.io/image-gallery/
